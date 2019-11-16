@@ -1,0 +1,16 @@
+
+-------------------------HAMMING CODE - ERROR DETECTION --------------------
+-Given by R.W Hamming
+
+is 7-bit Hamming code is used commmonly.
+
+Data bits: 4 
+Parity bits: 3 (may vary)
+
+
+2 power to n is the position of parity 
+
+
+
+
+

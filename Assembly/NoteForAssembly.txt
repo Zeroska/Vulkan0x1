@@ -1,0 +1,18 @@
+    Some Arithmetic operation
+
+operation       computation     
+addl            SRC,DEST        DEST = DEST + SRC
+subl            SRC,DEST        DEST = DEST - SRC
+imull           SRC,DEST        DEST = DEST * SRC 
+movl            SRC,DEST        
+sall            SRC,DEST        DEST = DEST << SRC
+sarl            SRC,DEST        DEST = DEST >> SRC 
+shrl            SRC,DEST        DEST = DEST >> SRC 
+xorl            SRC,DEST        DEST = DEST ^ SRC 
+orl             SRC,DEST        DEST = DEST | SRC 
+andl            SRC,DEST        DEST = DEST & SRC 
+
+for execute the damn .o file
+ ld -m elf_i386 -o demo demo.o
+
+I don't event know

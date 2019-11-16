@@ -1,0 +1,14 @@
+
+
+
+Powershell is not a programming language, it is a object-oriented 
+
+
+How to create AD DS:
+    - 
+How to create DNS :
+How to create Client and Policy:
+How to create DHCP
+
+
+

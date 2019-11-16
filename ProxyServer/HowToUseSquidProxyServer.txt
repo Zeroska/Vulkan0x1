@@ -1,0 +1,39 @@
+Introduction to Squid Proxy Server
+
+- Proxy server is 
+- Proxy server really big in 1990 (Now is NAT my friends)
+- Proxy has something called CACHE  (store something on it hard drive)
+cache will cached all the thing you do which is slow at the first time
+but the second time it's super fast son. All the computer connect to the squid 
+server (Proxy Server)
+- Proxy can restrict access to website
+- All thing will be store a text file (I don't know is true or not)
+- ACL: Access Control List (Block access to some website)
+- Hide your real IP address 
+- What is Transparent Proxy Server (end of like a default gateway)
+- 
+
+
+#Okay so how to use squid proxy server
+1. First of all install it, install squid
+    - In ubuntu sudo apt-get install squid
+    - And guide your browser IP default gateway to the
+    Ip address of the proxy server 
+2. Need to edit squid config 
+    - search for the http_access
+3. restart squid service 
+    - sudo service squid3 restart 
+
+
+
+
+Note: chrome use default setting of the Internet Explorer 
+Oh what did you know, surprise huh
+and the Squid Proxy Server required a good hard disk
+which had tremendous Read-Write speed ==> would prefer SSD 
+if you wanna build one (CPU is not nessesary)
+
+
+#IMPORTANT THING:
+    - Caching.
+    - ACL (Access Control List).

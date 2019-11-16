@@ -1,0 +1,8 @@
+In C/C++:
+
+
+you could do somthing like create a struct with the some properties 
+like 
+- node left and right and the root
+- initialize it with empty tree and then read the damn file and add it to the tree
+- 
